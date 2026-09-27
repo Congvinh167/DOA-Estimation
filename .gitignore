@@ -1,0 +1,14 @@
+.pio/
+.vscode/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.wav
+*.raw
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db

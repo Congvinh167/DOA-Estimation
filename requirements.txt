@@ -1,0 +1,5 @@
+# Dependencies inferred from the original scripts; not a frozen lockfile.
+numpy
+scipy
+matplotlib
+pyserial
